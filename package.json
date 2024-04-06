@@ -21,7 +21,7 @@
   "dependencies": {
     "@elastic/elasticsearch": "^8.12.2",
     "@types/node": "^20.11.30",
-    "@walidhousni/jobseeker-shared": "^1.0.7",
+    "@walidhousni/jobseeker-shared": "^1.0.8",
     "axios": "^1.6.8",
     "bcrypt": "^5.1.1",
     "compression": "^1.7.4",
